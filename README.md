@@ -1,12 +1,13 @@
 # PLRNNstsp
+
 Matlab code for state inference and parameter estimation in piecewise-linear recurrent neural network (PLRNN) models
 
 This folder contains the MatLab code and data files from
 
-Durstewitz, D (2017) A State Space Approach for Piecewise-Linear Recurrent Neural Networks
-    for Identifying Computational Dynamics from Neural Measurements. PLoS Computational Biology.
+[Durstewitz, D (2017) *A State Space Approach for Piecewise-Linear Recurrent Neural Networks
+   for Identifying Computational Dynamics from Neural Measurements.* PLoS Computational Biology.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005542)
 
-Copyright: © 2017 Daniel Durstewitz.
+Copyright: © 2017 [Daniel Durstewitz](daniel.durstewitz@zi-mannheim.de).
 This package is distributed under the terms of the GNU GPLv3 & Creative Commons Attribution License.
 Please credit the source and **cite the reference above** when using the code in any from of publication.
 
