@@ -8,6 +8,7 @@ This folder contains the MatLab code and data files from
    for Identifying Computational Dynamics from Neural Measurements.* PLoS Computational Biology.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005542)
 
 Copyright: © 2017 Daniel Durstewitz.
+
 This package is distributed under the terms of the GNU GPLv3 & Creative Commons Attribution License.
 Please credit the source and **cite the reference above** when using the code in any from of publication.
 
