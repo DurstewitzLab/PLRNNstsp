@@ -54,4 +54,4 @@ PLRNNoscParam.mat
 del_alt_11_26_KDE05.mat  
 - data are from Hyman JM et al., 2013, Cerebral Cortex 23: 1257-1268.
 
-del_alt_11_26_KDEnonopt01.mat = same date at higher temporal resolution (100 ms binwidth)
+del_alt_11_26_KDE01.mat = same data at higher temporal resolution (100 ms binwidth)
