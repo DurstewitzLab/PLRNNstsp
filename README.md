@@ -53,3 +53,5 @@ PLRNNoscParam.mat
 --- MSU recording data:  
 del_alt_11_26_KDE05.mat  
 - data are from Hyman JM et al., 2013, Cerebral Cortex 23: 1257-1268.
+
+del_alt_11_26_KDEnonopt01.mat = same date at higher temporal resolution (100 ms binwidth)
